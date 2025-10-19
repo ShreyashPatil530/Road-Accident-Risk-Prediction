@@ -2,7 +2,7 @@
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-Playground%20S5E10-blue)](https://www.kaggle.com/competitions/playground-series-s5e10)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-brightgreen)](https://www.python.org/)
-[![Kaggle Notebook](https://img.shields.io/badge/Kaggle-Notebook-lightblue)](https://www.kaggle.com/code/shreyashpatil217/road-accident-risk-prediction)
+[![Kaggle Notebook](https://img.shields.io/badge/Kaggle-Notebook-lightblue)](https://www.kaggle.com/code/shreyashpatil217/accident-risk-prediction-xgboost-lightgbm)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## Overview
