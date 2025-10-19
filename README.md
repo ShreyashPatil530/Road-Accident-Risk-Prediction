@@ -12,7 +12,7 @@ This project presents an advanced machine learning solution for predicting road 
 **Competition:** Kaggle Playground Series - Season 5, Episode 10  
 **Task Type:** Regression (Continuous Value Prediction)  
 **Evaluation Metric:** RMSE (Root Mean Squared Error)  
-**Kaggle Notebook:** [View Notebook](https://www.kaggle.com/code/shreyashpatil217/road-accident-risk-prediction)
+**Kaggle Notebook:** [View Notebook](https://www.kaggle.com/code/shreyashpatil217/accident-risk-prediction-xgboost-lightgbm)
 
 ## Results
 
